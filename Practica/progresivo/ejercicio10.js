@@ -23,13 +23,11 @@ let personas = [
 
 const masMayorArray = (array) => {
     let elemento = array[0];
-
     for(const persona of array){
         if(persona.edad > elemento.edad){
             elemento = persona;
         }
     }
-
     console.log(elemento);
 }
 
