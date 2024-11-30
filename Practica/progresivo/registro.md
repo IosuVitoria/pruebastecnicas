@@ -1,0 +1,1 @@
+1. Fecha: 30/11/2024. Iosu Hora comienzo: 10.59. Hora finalización: 11.32.
